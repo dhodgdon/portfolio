@@ -1,8 +1,8 @@
 # Overview
 
-This piece of software implements the Python print function to display "Hello World!" to the terminal.
+This is a basic Hello World program implementing the Python print function.
 
-I created this software to practice writing a simple Python program with an accompanying README file and then using Git to push those files to a GitHub repository.
+I created this software to demonstrate integration of Visual Studio Code, GitHub and Python.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -16,5 +16,6 @@ I created this software to practice writing a simple Python program with an acco
 
 # Useful Websites
 
-* [W3Schools](https://www.w3schools.com/python/default.asp)
+* [GitHub w/ Visual Studio Code](https://code.visualstudio.com/docs/sourcecontrol/github)
+* [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)
 * [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
